@@ -9,11 +9,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 # from langchain.tools import Tool
 # from langchain.agents import initialize_agent, AgentType
 # from langchain_community.chat_models import ChatOllama
-import textwrap
-from langchain.tools import tool
 from langchain_community.chat_models import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage
-from langchain.agents import initialize_agent,AgentType
 
 
 # Load the model
@@ -46,7 +43,7 @@ def search(query_emb, embeddings,frasi,top_k=3):
     
     # Rank sentences by similarity
     similarities_results = sorted(
-    [(f, s) for f, s in zip(frasi, similarities) if s > 0.3],
+    [(f, s) for f, s in zip(frasi, similarities) if s > 0.4],
     key=lambda x: x[1],
     reverse=True)[:top_k]
     
