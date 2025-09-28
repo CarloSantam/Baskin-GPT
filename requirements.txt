@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+scikit-learn
+plotly
+FlagEmbedding
+langchain-community
+langchain-core
