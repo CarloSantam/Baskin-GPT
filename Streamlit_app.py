@@ -24,9 +24,6 @@ import json
 import streamlit as st
 # import numpy as np
 
-import os
-os.environ["STREAMLIT_SERVER_FILEWATCHER_TYPE"] = "none"
-
 # Load the model
 model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True, pooling_method="mean")
 
@@ -306,4 +303,5 @@ if query:
             st.markdown(risposta)
         except Exception as e:
             st.error(f"❌ Errore nell'esecuzione del modello: {e}")
+
 
