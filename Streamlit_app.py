@@ -21,7 +21,7 @@ def load_data_and_emb():
     # Estrai solo i testi delle frasi
     frasi = [item["sentence"] for item in data]
     
-    embeddings = index_database(frasi, "embeddings_db")
+    embeddings = load_emb("embeddings_db.npy")
     
     return frasi,embeddings
 
@@ -53,4 +53,5 @@ model_llm="gpt-oss:20b-cloud"
 if query:
     with st.spinner("Sto pensando..."):
         risposta = baskin_gpt_core(query, frasi, embeddings,model,model_llm)
+
     st.markdown(risposta)
