@@ -6,3 +6,4 @@ plotly
 FlagEmbedding
 langchain-community
 langchain-core
+textwrap
