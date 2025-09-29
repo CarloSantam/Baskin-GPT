@@ -7,3 +7,4 @@ FlagEmbedding
 langchain-community
 langchain-core
 textwrap
+os
