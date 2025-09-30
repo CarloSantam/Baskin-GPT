@@ -1,5 +1,4 @@
 import numpy as np
-from FlagEmbedding import BGEM3FlagModel
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 import plotly.express as px
@@ -13,9 +12,6 @@ from langchain_community.chat_models import ChatOllama
 from langchain_core.messages import SystemMessage, HumanMessage
 
 
-# Load the model
-model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True, pooling_method="mean")
-
 
 
 # # Carica direttamente la lista di dizionari dal file
@@ -25,7 +21,7 @@ model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True, pooling_method="mean")
 # # Estrai solo i testi delle frasi
 # frasi = [item["sentence"] for item in data]
 
-def index_database(frasi, path):
+def index_database(frasi, path,model):
     # Extract only the text (ignore categories)
     texts = [f for f in frasi]
     
