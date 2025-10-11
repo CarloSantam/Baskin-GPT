@@ -1,0 +1,1158 @@
+[
+    {
+        "sentence": "Per tutto quanto non definito nel seguente Regolamento di gioco si fa riferimento al Regolamento Tecnico Ufficiale della Pallacanestro della Federazione Italiana Pallacanestro (FIP) vigente ivi comprese quelle non ancora integrate nel testo ufficiale ma pubblicate in documenti a parte.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per la pratica al di fuori del territorio italiano il Regolamento di riferimento è quello della Federazione nazionale di area FIBA di riferimento (es.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Fédération Française de basket-ball FFBB per la Francia) e, in assenza di Federazione di riferimento, quello della FIBA stessa.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Le modifiche proposte sono evidenziate in giallo e riguardano: ruoli 1 e 1S modalità di comunicazione con l’arbitro – ruoli 1S (modifica larghezza scivolo) – ruolo 2T precisazione sul rimbalzo – ruolo 3 rapporto corsa/palleggio – ruolo 2 precisazione sul supporto del tutor sul tiro – ruolo 4 possibilità di segnare in terzo tempo – modifica difesa sul tiro del ruolo 4 femmina – ruoli 5 a referto – ingresso in campo obbligatorio per tutti i giocatori nei primi due quarti e nei secondi due quarti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Revisioni precedenti: N° Revisione Data N° Revisione Data N° Revisione Data 1 25/10/2007 8 14/11/2012 15 06/10/2021 2 25/08/2008 9 03/10/2013 16 19/11/2021 3 25/10/2008 10 Integrata 10/11/2014 17 02/09/2022 4 28/08/2009 11 02/11/2015 18 08/09/2023 5 14/05/2010 12 18/10/2016 18 08/09/2023 6 13/10/2010 13 05/09/2018 19 25/09/2024 7 12/10/2011 14 01/09/2019 20 25/08/2025 Caratteristiche del Gioco Campo di Gioco (adattato) Campo di basket (misure standard) con due canestri tradizionali più due canestri laterali posti trasversalmente al campo (sul perimetro a metà campo) con h=2.20 mt e con due aree semicircolari (con raggio di 3 metri) suddivise in cinque settori.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Sotto il canestro laterale è possibile inserire un altro canestro più basso per i ruoli 1 (h=1.10 mt).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Le due aree semicircolari si possono tracciare utilizzando lo scotch.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una seconda semicirconferenza tratteggiata di Raggio 3.70 mt indica la zona in cui un fallo subito da un giocatore che sta portando la palla al Pivot determina automaticamente il conferimento della palla al Pivot per il tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se la palla tocca il piantone del canestro o uno dei due canestri è in gioco, se tocca la pedana in plastica o i sostegni del piantone, ruote comprese, è fuori.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Mt. 3 Canestro Canestro Canestro laterale alto e basso Canestro laterale alto e basso",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Figura 1: Campo da basket adattato, versione con aree rettangolari e trapezoidali",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Figura 2: Ingrandimento dell’area laterale con suddivisione in settori h = m 2.20 h = m 1.10",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Figura 3: Esempio di canestro laterale alto e basso Tempo di Gioco 4 tempi da 8 minuti ciascuno.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il tempo viene bloccato ad ogni fischio dell’arbitro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Sui canestri effettuati nelle postazioni laterali il tempo viene fermato, non viene fermato su quelli fatti nelle postazioni tradizionali tranne che negli ultimi due minuti di gioco e negli eventuali tempi supplementari.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di\n\nparità al termine del 4 tempo si effettueranno, ad oltranza, tempi supplementari di 4 minuti ciascuno.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Palla da Gioco Viene utilizzato il pallone grandezza n° 5 (usato nel mini-basket) sostituibile con altre palle di dimensioni e pesi diversi per il ruolo 1.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Queste vengono messe ai piedi dei canestri piccoli.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Le squadre, l’arbitro e gli ufficiali di campo hanno il compito di controllare ad ogni inizio tempo la presenza dei palloni diversi.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Arbitro È previsto almeno un arbitro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Numero di Giocatori Fino a 14 giocatori per squadra dei quali 6 obbligatoriamente in campo, successivamente se per falli o infortuni il numero dovesse ridursi non può comunque scendere sotto i 4 giocatori, in tal caso (solo 3 giocatori disponibili) la squadra avversaria ha vinto la partita.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ad ogni giocatore viene attribuito un ruolo che va da 1 a 5 secondo le caratteristiche in seguito elencate.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Pertanto ad ogni giocatore verrà assegnato un numero composto da 2 cifre: la prima si riferisce al suo ruolo, la seconda è identificativa della persona.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La somma dei numeri che indicano il ruolo non deve superare il valore di 23.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Tutti i giocatori devono entrare in campo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I numeri devono essere ben visibili, sulle maglie di gioco, sia davanti che dietro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli I ruoli vengono assegnati in base al possesso delle grandi prassie: l’uso delle mani, il cammino, la corsa, l’equilibrio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Sulla maglia è il primo numero sulla sinistra.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "numero 5: giocatore con o senza disabilità che possiede tutti i fondamentali del Baskin.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "numero 4: giocatore con o senza disabilità o con protesi che gli consenta il cammino e la corsa (la valutazione funzionale durante la partita determinerà la conferma del\n\nruolo 4 o il cambiamento a un ruolo diverso) che possiede le grandi prassie (l’uso totale o parziale delle mani quindi il tiro, il cammino, la corsa fluida con palleggio regolare) può commettere passi di partenza ed esegue i fondamentali del Baskin con velocità media.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "numero 3: giocatore con o senza disabilità che possiede l’uso totale o parziale delle mani, quindi il tiro anche nel canestro tradizionale, il cammino, la corsa anche con palleggio non continuato o interrotto.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non possiede la corsa fluida ma lenta, impacciata, poco coordinata e/o con scarso equilibrio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "numero 2: giocatore con disabilità con l’uso totale o parziale delle mani per il tiro nel canestro laterale alto, il cammino gli consente di spostarsi.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non possiede la corsa o non è in grado di utilizzarla (ruolo 2R, ruolo 2 che può correre o se in carrozzina possiede i fondamentali del basket in carrozzina): è un pivot di movimento, quindi si sposta.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Quando riceve la palla, facendo almeno due palleggi, deve recarsi in uno dei tre settori ed effettuare il tiro oltrepassata la linea dell’area, per il ruolo 2R la linea da oltrepassare è quella tratteggiata.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non può essere marcato.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ha a disposizione 10 secondi (7 secondi per il ruolo 2R) da quando il compagno entra nell’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il ruolo n. 2 è un giocatore in carrozzina deve spostarsi autonomamente eseguendo almeno 2 palleggi solo se riesce a spingere la carrozzina con entrambe le mani, se invece possiede la forza e l’abilità solo in un arto superiore, potrà essere spostato nella postazione di tiro dal compagno che gli ha portato la palla (durante questa azione non contano passi e doppio: la palla può essere tenuta in mano dal Tutor mentre effettua lo spostamento del pivot) e non dovrà effettuare i due palleggi prima di tirare inoltre la palla può essergli consegnata anche dopo che il Pivot è stato posizionato fuori dall’area, in questo caso il ruolo 2 si definisce 2T (2 + Tutor) in questo ruolo si deve far rientrare anche un Giocatore che si sposta con l’aiuto del deambulatore in quanto impossibilitato ad andare a rimbalzo, trasportare e raccogliere la palla.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il ruolo 2 P (2 + Palla) è un giocatore di ruolo 2 che si sposta autonomamente ma non riesce in modo assoluto a manipolare e tirare la palla da gioco.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "numero 1: giocatore con disabilità che non può spostarsi (per deficit motori) nemmeno con la carrozzina se non spinto da altri e con nessuno dei due arti superiori riesce a spostare la carrozzina per almeno un giro di ruota, è in possesso solo del tiro, staziona nell’area dei canestri laterali, a lui la palla deve essere consegnata da un compagno.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Quando la riceve, questa può essere sostituita da una palla più piccola da lui scelta e posta alla base del canestro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Dalla consegna della palla da parte del compagno entrato in area ha 10 secondi di tempo per arrivare al tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La posizione\n\ndi tiro può essere scelta ma non può essere all’interno dell’arco di cerchio con centro coincidente con quello del canestro laterale basso (la ruota grande della carrozzina non la può oltrepassare nel suo punto di contatto col suolo) e raggio R.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per tracciare l’arco di cerchio occorre definirne il centro e il raggio R operando nel seguente modo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Si determina la distanza del profilo interno del cerchio dal piantone del canestro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Detta distanza sia A.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ad essa si aggiunga la misura del diametro interno del cerchio diviso per 2.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Sia B questo valore (raggio del canestro).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "A questo punto la coordinata del centro del canestro sarà C uguale alla somma di A+B.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il centro dell’arco di cerchio che delimita la distanza minima sarà sulla linea di metà campo a distanza C dal bordo interno della linea laterale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il raggio dell’arco di cerchio da tracciare sarà R=80-C in centimetri.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "È un altro pivot.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non può essere marcato.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Figura 4 Riassunto ruoli Solo utilizzo delle mani per il tiro, è in carrozzella senza poterla muovere manualmente (non possiede la forza) Utilizzo delle mani più cammino o corsa non sfruttabile nel gruppo per certificati motivi (se in carrozzella possiede la forza almeno in un braccio) Mani più cammino e corsa non fluida, palleggio non continuato scarso equilibrio Utilizzo mani, cammino e corsa fluida, palleggio regolare, fondamentali non perfetti Possiede tutti i fondamentali del Baskin: palleggio, tiro, entrata, passaggio, portaggio, difesa velocità bassa velocità media velocità alta PIVOT PIVOT 1 2 3 4 5 Per i dettagli sull’assegnazione dei ruoli si deve considerare il documento “Allegato A al regolamento di gioco: La Classificazione dei ruoli nel Baskin Revisione 1 - Settembre 2025”.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Compiti dei giocatori I ruoli 1 e 2 sono i pivot e sono liberi da marcature.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Può essere schierato un solo pivot alla volta.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I numeri tre, quattro, cinque possono utilizzare qualsiasi tipo di marcatura.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 1 (pivot che non hanno cammino), stazionano nell’area dei canestri laterali, sono rivolti verso il gioco, da quando il compagno entrato in area gli ha consegnato la palla hanno 10 secondi di tempo per tirare.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Sono possibili due opzioni: a) il pivot ruolo 1 sceglie di effettuare un solo tiro e in questo caso se realizza il canestro esso vale 3 punti; b) il pivot ruolo 1 sceglie di effettuare due tiri e in questo caso se realizza il canestro (non importa se al primo o al secondo tentativo) esso vale solo 2 punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Gli arbitri dovranno comunicare al tavolo, alle squadre ed al pubblico prima che venga eseguito il tiro la scelta fatta dal ruolo 1.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il tutor consegna la palla al ruolo 1 prima che quest’ultimo abbia scelto quanti tiri effettuare, la scelta diventa automaticamente di 2 tiri e l’arbitro comincia a contare i 10 secondi del primo tentativo di tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se un ruolo 1 non ha la possibilità di esprimere la sua scelta verbalmente, si concede la possibilità di esprimersi tramite altre modalità non verbali (es.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Indicare il numero con la mano o battendo gli occhi, o picchiettando con le nocche, o usando un testo in CAA, etc.), a patto che la modalità utilizzata sia dichiarata a referto nella sezione “Note”.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non possono essere contrastati in quanto nell’area non devono entrare gli altri giocatori.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 1 possono utilizzare una palla di dimensioni più piccole per il tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il canestro viene ritenuto valido solo se la palla avrà compiuto una traiettoria parabolica (non può essere lasciata cadere nel canestro posizionandosi con la mano sopra di esso). * Alcuni particolari giocatori in cui la spasticità è tale da non consentire la flessione del polso e del braccio per predisporre il lancio della palla, possono modificare il loro lancio a canestro appoggiando la palla, entro gli usuali 10 secondi, su di un piano inclinato senza sponde, lungo almeno sei volte il diametro della palla e largo non più di 1,5 volte il diametro della palla.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Lo scivolo dovrà terminare sul ferro e non oltre e l’angolo che si viene a creare tra l’anello del canestro e il piano inclinato non deve essere superiore ai 15° (vedasi immagini esemplificative nell’allegato 1 relativo alle strutture del Baskin). il piano inclinato (con relativo supporto) può essere costruito sulle esigenze dell’atleta, purché rispetti le indicazioni presenti nel regolamento e qui definite con maggior chiarezza, e può essere strutturato in due modalità: 1.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Solidale al canestro posto ad altezza 1,10 mt (vedasi immagini esemplificative allegate al Regolamento)\n\n2.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Scollegato dal canestro posto ad altezza 1,10 mt e posizionato su un supporto che viene successivamente avvicinato creando una continuità tra scivolo e anello del canestro. (Lo scivolo deve terminare sul ferro e non oltre).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Quello che non deve avvenire è che lo scivolo sia solidale alla carrozzina del ruolo 1S, ma devono essere due parti scollegate e autonome tra di loro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se le due parti fossero solidali tra loro verrebbe a mancare la fase di posizionamento del Pivot rispetto all'obiettivo da raggiungere (nel caso del ruolo 1S lo scivolo su cui posizionare la pallina), caratteristica che deve essere presente in ogni tipologia di Pivot.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "È consentito l'uso di una pedana per il rialzo dell'1S proporzionata alla sua necessità di arrivare a posizionare la palla sul piano inclinato.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il ruolo 1S deve appoggiare la pallina sul limite più alto dello scivolo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se l’appoggio avviene più avanti verso il canestro riducendo eccessivamente la lunghezza di 6 volte il diametro della palla prevista e ottenendo così un vantaggio non previsto, si consiglia di procedere con una di queste modalità pena l’invalidazione del tiro: 1.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Arretrare il ruolo 1S dal canestro in modo che l’appoggio avvenga sul limite più alto dello scivolo 2.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Allungare lo scivolo delimitando visivamente la lunghezza di 6 volte il diametro della palla così che gli arbitri possano verificare se l’appoggio avviene correttamente o con eccessivo vantaggio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Di seguito alcune specifiche sull’azione di tiro del ruolo 1S: ⚫ Il ruolo 1S può usufruire di eventuali supporti per le braccia solo se strettamente necessari, e a patto che tali supporti non eliminino la partecipazione attiva dell’atleta nel posizionamento della palla sullo scivolo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se i supporti posizionano il braccio del ruolo 1S già sopra lo scivolo, e quest’ultimo deve solo aprire la mano per far cadere la palla, il tiro deve essere invalidato. ⚫ Il tutor ha il compito di posizionare gli eventuali supporti utili al il tiro del'1S, ma la sua azione deve essere relativa al solo posizionamento dei supporti senza risultare in nessun modo parte attiva dell’azione di tiro, pena l’invalidazione del tiro. ⚫ Al momento della consegna da parte del tutor, la palla non deve essere a contatto con il piano inclinato pena l'invalidazione del tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "È parte dell’autonomia dell’azione di tiro dell’1S il posizionamento della palla sul piano inclinato.\n\n⚫ Una volta consegnata la palla il tutor non può più interferire attivamente con l'azione di tiro dell'1S che deve essere autonoma, pena l’invalidazione del tiro. ⚫ Il tiro del ruolo 1S è da considerarsi iniziato quando la palla viene a contatto con il piano inclinato.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ne consegue che: - Se la palla cade dalla mano dell’1S senza aver toccato lo scivolo viene considerato “tiro non iniziato” e il tutor può recuperare la palla e riconsegnarla al pivot per eseguire l'azione di tiro entro il tempo previsto. - Se la palla cade dopo aver toccato lo scivolo viene considerato “tiro iniziato” e si conclude l'azione di tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Tutti gli errori da parte del tutor durante la consegna della palla devono sempre essere considerati indipendenti dalla volontà dell’1S e per questo equiparati a “tiro non iniziato”.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il conteggio del tempo di tiro comincia nel momento in cui la palla viene consegnata al ruolo 1S come da regolamento, e prosegue indipendentemente dalle casistiche sopradescritte.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Questi giocatori sono classificati come ruoli 1S e questa caratterizzazione deve essere scritta a Referto.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola sperimentale soggetta a successiva validazione: per dimensioni, forma e materiale fare riferimento al disegno nel documento Elenco Strutture/Attrezzature del Baskin (Allegato 1).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il tempo viene fermato nel momento dell’entrata in area del compagno che gli porta la palla su segnalazione dell’arbitro che alza la mano.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Nel caso finisca il tempo di gioco contemporaneamente all’ingresso del compagno nell’area laterale (il piede deve essere già dentro al suono della sirena) egli ha diritto di effettuare il suo tiro utilizzando totalmente i 10 secondi a disposizione.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La palla al giocatore ruolo 1 può essere solo consegnata.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Egli la deve afferrare per poter aver diritto a effettuare il tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I 10 secondi a disposizione cominciano da questo istante e dovrà essere il compagno che ha effettuato il passaggio a provvedere al cambio eventuale della palla.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Durante il conteggio dell’arbitro sui tiri dei ruoli 1 il cronometro verrà fatto ripartire al momento dell’inizio del conteggio e verrà fermato se verrà realizzato il canestro o quando il pallone colpisce il canestro, la struttura oppure la palla cade a terra.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Nel caso che il ruolo 1 scelga di fare 2 tiri il procedimento sarà il medesimo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il gioco riprende con una rimessa laterale anche se la palla non viene cambiata da effettuarsi al di là delle tacche poste a due metri dall’area laterale (come indicato nel disegno in figura 2).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Nel caso di portaggio al ruolo 1 e 1S ci sia un’invasione dell’area laterale del difensore o un suo fallo l’arbitro che col suo fischio ha già fermato il tempo non dovrà far ripetere il\n\nportaggio mentre potrà iniziare l’azione di preparazione per il tiro subito al fischio dell’arbitro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Qualora la palla sia vagante nell’area dove staziona il ruolo 1 e non possa essere recuperata, oppure entri in possesso del ruolo 1 (ad esempio, ma non solo, stazionandogli in grembo per un rimbalzo fortuito), l’arbitro dovrà fischiare per fermare il tempo dopo avere atteso 5 secondi; a quel punto, un compagno Tutor potrà effettuare tutte le manovre necessarie e avviare così l’iter di tiro per il ruolo 1 previsto dal presente Regolamento.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 2 devono stare rivolti al gioco e tirare nel canestro laterale alto nell’arco di 10 secondi (7 secondi in caso di ruolo 2R) da quando il compagno è entrato nell’area, ma da fuori area in quanto si possono spostare.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Come i ruoli 1 non sono contrastati dal corrispondente ruolo avversario (che staziona presso l’altro canestro laterale), devono permanere all’interno dell’area laterale (per ragioni di sicurezza) fintanto che la palla non gli è stata consegnata o passata solo con passaggio schiacciato a terra con palla che tocca il suolo fuori dall’area laterale, (non è possibile passare la palla al ruolo 2 direttamente dalla rimessa laterale) e possono raccogliere la palla solo all’interno dell’area laterale, il tempo viene fermato in caso di canestro realizzato.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una volta entrato in possesso della palla se questa gli è stata portata in area da un compagno, deve obbligatoriamente effettuare almeno due palleggi, spostandosi in uno dei tre settori ed effettuare il tiro oltrepassata la linea dell’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il canestro vale 2 punti se effettuato dal settore centrale e 3 punti se effettuato dal settore laterale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I giocatori di ruolo 2R che possiedono la corsa ma che non la sanno utilizzare o i giocatori in carrozzina che possiedono i fondamentali del Basket in carrozzina, devono effettuare il loro tiro fuori dall’area tratteggiata (cioè 0,7 metri più lontano degli altri) e in un intervallo di tempo non superiore a 7 secondi.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il compagno che porta la palla al ruolo 2R deve oltrepassare la linea continua dell’area semicircolare per consegnare la palla al ruolo 2R.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non cambiano le regole per il rimbalzo, con l’unica differenza che chi partecipa all’azione di rimbalzo deve partire, come il giocatore 2R, fuori dall’area tratteggiata e solo dopo che il tiro è partito potrà avvicinarsi alla linea continua che delimita l’area semicircolare senza ovviamente oltrepassarla, l’anticipo dell’ingresso del difensore rispetto all’inizio del tiro comporterà la ripetizione del tiro stesso.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Si ribadisce che se un giocatore possiede la corsa (anche se faticosa) deve essere classificato come ruolo 3 o 4 o 5.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Potrà essere arruolato 2R solo se manca la possibilità di utilizzo di tale corsa nelle dinamiche della partita (vedi allegato A al regolamento di gioco “La classificazione dei ruoli nel baskin” Rev. vigente).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se la palla invece viene intercettata o passata da fuori area (non su rimessa) il ruolo 2 può scegliere se tirare nel modo indicato sopra o passarla fuori a un compagno qualunque, nel\n\nprimo caso avrà a disposizione 10 secondi (7 secondi in caso di ruolo 2R), nel secondo 5 secondi.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Quando tira deve essere garantito uno spazio di un metro da ogni suo lato per evitare ostruzionismi (vedi le tacche in figura 2).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Nel caso finisca il tempo di gioco contemporaneamente all’ingresso del compagno nell’area laterale (il piede deve essere già dentro al suono della sirena) egli ha diritto di effettuare il suo tiro utilizzando totalmente i 10 secondi a disposizione (7 secondi in caso di ruolo 2R).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se l’azione di tiro non termina con un canestro, il giocatore con ruolo 2 può entrare nell’area laterale e prendere il rimbalzo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il ruolo 2 è 2T il Tutor che gli aveva portato la palla all’interno dell’area può raccoglierla, spostarsi liberamente (non vale infrazione di doppio o passi in questo frangente) e consegnarla al pivot dopo che questo è entrato in area da solo o con l’aiuto del compagno Tutor.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il rimbalzo può essere preso solo dal Tutor (che può posizionarsi dove vuole a rimbalzo) o dal ruolo 2T.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il rimbalzo non è preso da uno di questi due giocatori la palla rimane viva fino a quando non tocca il campo fuori dall'area del pivot causando l’interruzione del gioco e conseguente rimessa assegnata alla squadra in difesa.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Chiunque tocchi la palla prima commette infrazione: l'arbitro fischierà per interrompere il gioco e assegnerà la rimessa alla squadra avversaria.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se la palla tocca il terreno direttamente fuori dal campo di gioco, la rimessa verrà assegnata alla squadra in difesa.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Catturata la palla, il ruolo 2 o 2R dovrà entro 5 secondi (10 se in carrozzina e per il ruolo 2T) passarla (non consegnarla) a un qualunque compagno di squadra posto sul bordo dell’area laterale o più lontano (non al Tutor che gli ha portato la palla) posto fuori area laterale, questi non la può ripassare subito al Pivot ma prima deve passarla ad un altro compagno di squadra.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per il ruolo 2T i 10 secondi cominciano da quando il Tutor ha preso il rimbalzo oppure da quando ha preso il rimbalzo il 2T stesso.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il numero di giocatori che può sostare intorno all’area laterale mentre il Pivot tira è di due per squadra (non si considera il giocatore che sta tirando, mentre al giocatore che ha portato la palla al ruolo 2 in ogni sua declinazione è concesso di sostenere il pivot durante il gesto del tiro per compensare eventuali instabilità del tiratore, a patto che il tutor rimanga con i piedi fuori dall’area (ad eccezione del tutor del 2T e del tutor di un pivot con deroga di distanza) e che non influisca direttamente sulla dinamica del tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "È concessa anche la possibilità per il tutor di indirizzare il pivot verso il rimbalzo dopo che quest’ultimo ha tirato attraverso un leggero stimolo fisico, ma non di partecipare al rimbalzo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Nessun giocatore potrà posizionarsi dietro a questi giocatori a rimbalzo (nel cilindro di raggio 1 metro) e questi\n\nultimi dovranno restare con i piedi entrambi adiacenti alla linea ma mai con una gamba dietro o incrociando le gambe con quelle di un altro rimbalzista.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I rimbalzisti devono posizionarsi con i piedi all’altezza delle spalle, non possono quindi allargare il compasso delle gambe per occupare maggior spazio a rimbalzo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "L’arbitro, dopo aver richiamato i giocatori al rispetto della regola, può annullare il canestro eventuale o convalidarlo a seconda che commetta l’infrazione rispettivamente la squadra che attacca o quella che difende, in caso di canestro non effettuato l’arbitro dovrà fermare il gioco e far ripetere il tiro se la squadra che difende è in sovrannumero oppure far ripartire il gioco con una rimessa laterale da assegnare a chi difende se la squadra che attacca è in sovrannumero.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di palla vagante che carambola in mano al ruolo 2T qualsiasi compagno può fare da Tutor.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per quanto riguarda il ruolo 2P (vedi Allegato A: La Classificazione dei ruoli nel Baskin Revisione 1 - Settembre 2025) la dinamica dell’azione di tiro è la seguente: il Tutor entra in area e si reca alla base del canestro laterale per depositare la palla di gioco e recuperare la palla personale del ruolo 2P che si trova già sulla base del canestro laterale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Quando il Tutor entra in area, il ruolo 2P può andare a posizionarsi per il tiro secondo i criteri del ruolo 2 e una volta raggiunta la posizione di tiro il Tutor gli consegna la palla personale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non è prevista la fase di rimbalzo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il gioco riprende con una rimessa laterale per la squadra avversaria.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il conteggio del tempo durante l’azione di tiro e tutto ciò che non è qui specificato segue le norme previste per il ruolo 2.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non devono però essere eseguiti i 2 palleggi prima del tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Rimane per il giocatore la possibilità di ricorrere all’uso delle altre deroghe previste dal Regolamento (tempo, distanza, canestro) previa comunicazione e accettazione della CTL di riferimento.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il tutor non deve commettere le infrazioni previste dal proprio ruolo fino al cambio palla.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "L'uscita dal campo del giocatore e/o della palla da gioco per prendere la palla più piccola da dare al pivot ed eventuali infrazioni di passi o doppio palleggio avvenute dopo il cambio palla (se previste per il ruolo) non verranno sanzionate.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I giocatori di ruolo 2T, ruolo 2P, ruolo 2R dovranno essere dichiarati a Referto.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Quando un giocatore di ruolo 2R è in campo dovrà essere segnalata la sua presenza tramite un segnale affisso alla struttura del canestro laterale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "È suggerita anche la segnalazione della presenza in campo di ruolo 2T e ruolo 2P (eventualmente con segnale uguale a quello del 2R).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 2, 2T, 2P,2R devono effettuare il loro tiro in modo che non venga pestata la linea che delimita l’area da cui devono tirare.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una volta che la palla ha lasciato la mano possono anche atterrare o sulla linea o dentro l’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 2, 2T, 2R che recuperano la palla da un rimbalzo (o palla vagante) possono tirare se il rimbalzo (o palla vagante) non era immediatamente conseguente a un loro tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Nessun giocatore di ruolo 1 o ruolo 2 con le varie declinazioni (1S, 2R, 2T, 2P) può intercettare la palla fuori dall’area laterale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Solo per il ruolo 2T è previsto aiuto “fisico” durante spostamento e posizionamento da parte del Tutor, gli altri ruoli 2, 2R, 2P non devono essere “assistiti fisicamente” dai tutor pena annullamento canestro eventuale e consegna palla all’avversario.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 3 possono tirare nei canestri laterali alti da fuori area o nei canestri alti non laterali, effettuando una corsa con almeno qualche palleggio anche se interrotto e non continuato.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni volta che intraprendono una corsa e sono in possesso di palla devono eseguire durante la corsa stessa almeno un palleggio ogni 3 passi (il palleggio se effettuato subito prima di iniziare a correre non viene conteggiato come tale).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Piccoli spostamenti, eseguiti in un numero qualunque purché all’interno di un cilindro di raggio 1 metro attorno alla posizione iniziale, con la palla in mano eseguiti senza corsa prima di un tiro o un passaggio non richiedono l’obbligo del palleggio di cui sopra.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se un ruolo 3 riceve la palla in area può spostarsi e correre senza obbligo dei palleggi fintanto che rimane all’interno dell’area stessa.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se un ruolo 3 riceve la palla dentro l’area dei tre secondi e poi esce con entrambi i piedi se volesse rientrare deve effettuare un palleggio (dentro o fuori area) perché il rientro sia valido.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se fa due passi può passare la palla senza palleggio, se ne fa tre deve effettuare un palleggio prima di effettuare il passaggio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni tiro (o passaggio) effettuato senza il palleggio di cui sopra viene punito con il passaggio della palla alla squadra avversaria e l’eventuale canestro invalidato.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il giocatore ruolo 3 può tirare al canestro laterale senza effettuare il palleggio se riceve il passaggio da un giocatore ruolo 2 che ha preso il rimbalzo su un suo tiro sbagliato oppure se il giocatore di ruolo 3 ha preso lui stesso il rimbalzo sul tiro sbagliato del giocatore ruolo 2.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Devono essere contrastati da un ruolo 3 avversario ed ogni canestro effettuato nel canestro laterale alto vale 2 punti (il tiro deve essere effettuato fuori dalla linea continua), mentre nel canestro tradizionale vale 3 punti se viene effettuato dopo aver ricevuto la palla con ambedue i piedi fuori dall’area (altrimenti vale 2 punti se riceve anche solo con un piede dentro oppure prende un rimbalzo o palla vagante anche solo con un piede dentro).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il ruolo 3 può comunque uscire dall’area rispettando le regole sul palleggio, e se va a\n\ncanestro dopo essere uscito con entrambi i piedi il canestro vale 3 punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di fallo mentre sta tirando si effettueranno 2 o 3 tiri liberi a seconda del canestro in cui stava tirando e della situazione (zona ricevimento palla).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per loro non contano le infrazioni di passi e doppio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I giocatori di ruolo 3 non possono essere marcati da ruoli 4 o ruoli 5 in modo da ostacolare la loro ricezione della palla né durante il gioco né durante la rimessa (difesa illegale).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "A tale proposito si considera la distanza di un braccio del giocatore ruolo 3 come raggio d’azione entro cui non può essergli portata via la palla se non da un altro giocatore di ruolo 3.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di rimbalzo però questa tutela non deve essere applicata.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Prima dell’effettuazione dei tiri liberi l’arbitro dovrà mettere in sicurezza i giocatori di ruolo 1 o ruolo 2 in campo posizionandoli a lato del canestro laterale nel punto più lontano in area (incrocio tra linea semicircolare e linea retta laterale) per evitare che la palla possa colpirli.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di errore sul tiro libero supplementare e sul secondo tiro libero non c’è rimbalzo ma si riprende con una rimessa laterale come sui tiri dei pivot ruolo 1 perché prima della rimessa bisogna far riposizionare i pivot nell’area laterale, operazione che deve essere eseguita a gioco fermo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 3 quando tirano nel canestro laterale devono effettuare il loro tiro in modo che non venga pestata la linea che delimita l’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una volta che la palla ha lasciato la mano possono anche atterrare o sulla linea o dentro l’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di canestro realizzato il tempo deve essere fermato.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 3 quando tirano un tiro libero al canestro tradizionale (3.05 m) devono effettuare il loro tiro in modo che non venga pestata la linea del tiro libero.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una volta che la palla ha lasciato la mano possono anche atterrare o sulla linea o dentro l’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il ruolo 3 porta la palla al pivot nell’area laterale deve fare almeno un palleggio fuori dall’area prima di entrare e consegnare la palla al pivot.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La mancanza di questi presupposti farà annullare l’azione, il pivot non può tirare e la palla va consegnata alla squadra avversaria per una rimessa laterale in zona di difesa.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 4 devono tirare necessariamente nei canestri tradizionali e devono effettuare la corsa palleggiando.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Vengono contrastati naturalmente dai corrispondenti ruoli 4.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni canestro effettuato vale 2 punti o 3 punti a seconda che il tiro venga effettuato avanti o dietro la linea dei tre punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per loro contano le infrazioni di passi e doppio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non contano i passi di partenza.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Valgono anche i canestri effettuati in terzo tempo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I giocatori di ruolo 4 non possono essere marcati da ruoli 5 in modo da ostacolare la loro ricezione della palla né durante il gioco né durante la rimessa (difesa illegale).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "A tale proposito si considera la distanza di un braccio del giocatore ruolo 4 come raggio d’azione entro cui non può essergli portata via la palla se non da un altro giocatore di ruolo 4 o ruolo 3.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di rimbalzo però questa tutela non deve essere applicata.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 4, quando effettuano un tiro libero, devono eseguire il loro tiro in modo che non venga pestata la linea del tiro libero, nemmeno dopo che la palla ha lasciato la mano.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una volta che la palla ha toccato il canestro possono attraversare la linea del tiro libero per andare a rimbalzo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 4, quando effettuano un tiro da 3 punti, devono eseguire il loro tiro in modo che non venga pestata la linea dei tre punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una volta che la palla ha lasciato la mano possono anche atterrare o sulla linea o dentro l’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se la linea viene calpestata o oltrepassata prima che la palla lasci la mano e il tiro viene realizzato, il canestro verrà convalidato da 2 punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 5 devono tirare nei canestri tradizionali, possono marcare solo ruoli 5 avversari e non possono marcare altri ruoli, per loro valgono le regole del basket e possono effettuare un massimo di 3 tiri per tempo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni canestro effettuato vale 2 punti o 3 punti a seconda che il tiro venga effettuato avanti o dietro la linea dei tre punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Anche per loro contano le infrazioni di passi e doppio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il tiro viene conteggiato come tiro anche se il giocatore subisce fallo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il ruolo 5 commette un’infrazione (passi, doppio, sfondamento) non si deve considerare aumentato il numero di tiri effettuati.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il giocatore di ruolo 5 effettua il 4° tiro nel tempo, l’azione deve essere fermata dall’arbitro (su segnalazione del Tavolo) e la palla consegnata alla squadra avversaria per una rimessa.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni fallo effettuato prima del tiro deve essere scritto a referto.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La palla sarà assegnata alla squadra che ha subito il fallo, non devono essere però assegnati tiri liberi perché l’azione non avrebbe potuto concludersi con tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 5, quando effettuano un tiro libero, devono eseguire il loro tiro in modo che non venga pestata la linea del tiro libero, nemmeno dopo che la palla ha lasciato la mano.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una volta che la palla ha toccato il canestro possono attraversare la linea del tiro libero per andare a rimbalzo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 5, quando effettuano un tiro da 3 punti, devono eseguire il loro tiro in modo che non venga pestata la linea dei tre punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Una volta che la palla ha lasciato la mano possono anche atterrare o sulla linea o dentro l’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se la linea viene calpestata o oltrepassata prima che la palla lasci la mano e il tiro viene realizzato, il canestro verrà convalidato da 2 punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni ruolo ha inoltre il compito di fare da tutor (prendersi cura di...) ad un suo compagno con il ruolo 1, 2 o 3, guidandolo, indirizzandolo e incitandolo quando questi entra in possesso della palla.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Inoltre: Il giocatore che porta la palla al compagno con ruolo 1 ha anche il compito di mettere il compagno fronte al canestro, fare gli eventuali scambi di palla, raccogliere la palla per l’eventuale secondo tiro e riposizionarlo fronte al gioco.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il gioco riprende solo al termine di queste operazioni.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 1 – Giocatori in campo Ogni squadra deve schierare obbligatoriamente, almeno fino al raggiunto limite di falli (vedi regola 7) un giocatore pivot, uno di ruolo 3 e almeno 2 giocatori con ruolo 5.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La somma dei numeri di ruolo non deve superare il valore 23.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se l’arbitro, o il tavolo, o la squadra avversaria si accorge del superamento della quota 23, l’infrazione viene punita con 2 tiri nel canestro tradizionale e palla alla squadra che ha ne ha tratto svantaggio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Tra i giocatori di ruolo 4 o ruolo 5 devono essere presenti almeno una donna e un uomo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se vengono schierati tre giocatori di ruolo 5, deve essere assicurata la presenza di genere e la presenza in campo di un ruolo 1 o 1S.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Qualora una squadra per infortunio o raggiunto limite di falli non ha più disponibili almeno 2 giocatori di ruolo 5 o non può schierare un giocatore femmina tra i ruoli 4 o 5 o non può schierare almeno un ruolo 3, la partita continua ma la squadra dovrà schierare un numero di giocatori inferiore pari al numero di quelli che non riesce a sostituire.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Con soli 3 giocatori schierati la partita è vinta dalla squadra avversaria.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni squadra dovrà avere a referto almeno un giocatore di ruolo 4.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Possono essere iscritti a referto massimo 4 giocatori di ruolo 5 dello stesso sesso.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "L’eventuale quinto iscritto deve essere di sesso diverso.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Tutti i giocatori a referto devono scendere in campo almeno una volta nei primi due quarti di gioco e almeno una volta nei secondi due quarti, se questo non avviene la squadra verrà sanzionata con una sconfitta per 40 a 0.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I refertisti potranno dare indicazioni al riguardo, ma non è un loro obbligo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "È previsto che solo un tesserato iscritto a referto (o inserito nelle note) possa stazionare vicino all’area laterale per esercitare un’azione di controllo necessaria con alcuni ruoli 2, 2T, 2R, 2P se questi dovessero uscire dal campo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In nessun caso potrà aiutare durante un’azione di gioco, ne entrare in campo, dove l’azione di controllo è a carico dei compagni.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 2 – Cambi Tutti i cambi possono essere effettuati purché la somma dei ruoli in campo non superi il valore 23.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Durante i cambi viene fermato il tempo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La modalità di richiesta ed esecuzione dei cambi segue la normativa del basket tradizionale eccetto che possono essere effettuati anche dopo l’effettuazione di un canestro laterale, ma mai prima, anche in caso di fischio sul portaggio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Qualora dopo un cambio non esistono corrispondenze di ruoli in campo, vale sempre la regola che il ruolo inferiore può marcare il superiore, ma non il contrario.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 3 – Inizio del gioco Si inizia ogni tempo dalla contesa effettuata dai ruoli 5 a centrocampo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il canestro laterale di attacco è quello posto sulla destra di chi salta.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 4 – Rimesse Sulle rimesse laterali o da fondo campo i giocatori che difendono devono stare almeno a un metro dal giocatore che rimette la palla in gioco e devono essere effettuate in uno dei seguenti due modi:  i ruoli 4 e 5 partendo in palleggio devono andare a consegnarla (in tempo non superiore ai 10 secondi) ai ruoli 1, 2 o 3 (portaggio); il ruolo 4 o 5 partendo in palleggio deve effettuare il primo palleggio dentro il campo di gioco.  i ruoli 3, 4 e 5 possono passarla ad un compagno per iniziare l’azione nel tempo limite di 5 secondi.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "È consentito lo stazionamento del difensore in prossimità dell’area semicircolare.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La palla non può essere passata ai “pivot” dalla rimessa.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Dopo che il ruolo 1 ha effettuato il suo tiro o i suoi tiri, se decide di provare due volte, il gioco riprende con una rimessa effettuata dalla squadra avversaria ma al di fuori delle aree piccole laterali dalla parte della difesa.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 5 – Aree piccole laterali I ruoli 3, 4 e 5 non possono entrare nell’area (raggio 3 metri) che delimita i canestri laterali se non per consegnare la palla ai ruoli 1 o 2 ed eventualmente cambiarla con un’altra diversa, posizionare il compagno e uscirne subito dopo, fatta eccezione per il tutor del ruolo 2T o per il tutor di un pivot con deroga di distanza che possono rimanere dentro l’area anche dopo il posizionamento.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per entrare devono effettuare almeno un palleggio\n\nfuori dall’area laterale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il difensore deve fermarsi fuori dall’area.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il difensore entra anche solo con una parte di un piede nell’area laterale mentre tenta di difendere sull’attaccante che vuole andare dal pivot, la palla viene consegnata al pivot (infrazione di invasione).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il tempo effettivo di gioco ed il conteggio dell’arbitro riprendono a scorrere quando, dopo che l’arbitro ha consegnato la palla al tutor, questi palleggia dentro l’area laterale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Lo stesso vale in occasione del fallo dentro la corona circolare.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I ruoli 3, 4 e 5 possono afferrare l’eventuale rimbalzo stando al di fuori dell’area semicircolare ma se cadono entro l’area, anche liberati dal possesso della palla, commettono infrazione.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Durante una azione i giocatori possono transitare nelle aree piccole laterali solo senza palla e quando il gioco è lontano (l’arbitro deve valutare se la distanza dell’azione di gioco è sufficientemente grande da non influenzarne l’esito).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni infrazione di questa regola comporta il passaggio della palla alla squadra avversaria.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se la palla giace nell’area laterale e non può essere recuperata, l’arbitro, dopo aver atteso 5 secondi, fischia un’interruzione: se il pivot in campo è un ruolo 2 ci sarà un salto a due da amministrare a centro campo, mentre se il pivot in campo è un ruolo 1 avrà una possibilità di tiro (cfr. ruolo 1 e palla vagante nella sua area).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 6 – Durata delle azioni di gioco Ogni squadra ha un tempo illimitato di secondi per concludere l’azione a canestro nei primi 3 tempi, nel quarto tempo ed eventuali supplementari ogni squadra ha un tempo di 30 secondi per concludere l’azione a canestro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il conteggio è affidato all’arbitro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 7 – Falli Il numero massimo di falli per ogni giocatore è 5.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni fallo che viene subìto mentre si sta effettuando un’azione di tiro dà diritto a 2 o 3 tiri liberi nel canestro in cui si stava tirando.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il fallo subìto non in situazione di tiro dà diritto alla rimessa laterale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Quando un giocatore subisce un fallo mentre sta portando la palla a un Pivot (si trova cioè in una zona adiacente all’area semicircolare), questi ha diritto di tirare secondo le regole del proprio ruolo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per area adiacente si intende una corona circolare di larghezza 70 centimetri indicata da una linea tratteggiata.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni fallo subito da un ruolo 5 negli ultimi 2 minuti della partita (4° tempo e durante ogni eventuale supplementare) viene sanzionato con due tiri liberi.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se un giocatore ruolo 5 subisce un fallo mentre effettua un tiro da 3 punti in questa fase di gioco, ha diritto a 3 tiri liberi.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni difesa illegale compiuta da un ruolo 5 o 4 deve essere considerata come un fallo da segnalare sul referto con la lettera “L”.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Si considera difesa illegale anche correre parallelamente a un ruolo di numero inferiore pur senza intervenire o entrare nel suo cilindro di raggio 1 metro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Solo posizionandosi con largo anticipo e rimanendo fermo, il ruolo 5 o 4 può evitare di commettere difesa illegale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il ruolo 5 femmina durante le entrate e i tiri a canestro non potrà essere contrastata da un giocatore ruolo 5 maschio (questi dovrà stare con le mani allineate al corpo durante le fasi sopramenzionate).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di infrazione questa deve essere sanzionata come una difesa illegale su un ruolo di numero più basso (2 tiri liberi più possesso di palla per chi subisce l’infrazione).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il ruolo 5 femmina potrà invece essere contrastato da qualunque altro giocatore maschio o femmina.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In tutte le altre fasi di gioco il ruolo 5 femmina potrà essere marcato anche dal ruolo 5 maschio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Allo stesso modo il ruolo 4 femmina, durante le entrate e i tiri non potrà essere contrastata da un ruolo 4 maschio che dovrà difendere con le braccia allineate al corpo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il ruolo 4 femmina e il ruolo 5 femmina potranno essere contrastati al tiro o in entrata con le braccia alte dal ruolo 3.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il ruolo 5 femmina potrà essere contrastato con le braccia alte anche dal ruolo 4 maschio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di infrazione questa dovrà essere sanzionata come una difesa illegale su un ruolo di numero più basso (2 tiri liberi più possesso palla per chi subisce l’infrazione).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni volta che un giocatore chiama la palla in possesso di un giocatore avversario deve essere sanzionato con un fallo tecnico.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso di Fallo Tecnico può andare a tirare qualunque giocatore di qualunque ruolo utilizzando la modalità di tiro sua propria.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il giocatore ha ruolo 3 potrà scegliere in quale canestro (alto o laterale-alto) tirare il tiro libero.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 8 – Aiuti difensivi e “Aiuti offensivi” Sono consentiti aiuti difensivi tra giocatori dello stesso ruolo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Quando un giocatore marca un ruolo inferiore commette un’infrazione (è un fallo da enumerare tra i 5 a disposizione con la lettera “L”) che deve essere punita con 2 tiri liberi e successiva rimessa da assegnare alla squadra di chi ha subito l’infrazione.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Lo stesso dicasi per gli “Aiuti offensivi”, per Aiuto offensivo si intende impedire volontariamente col proprio corpo al difensore di ruolo inferiore di poter fare il proprio lavoro difensivo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Se il ruolo che la subisce è un 3 questi effettua i tiri liberi nel canestro laterale alto dalla linea tratteggiata (da dove tira il ruolo 2R).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non è considerata infrazione negli aiuti difensivi se si prende il pallone da rimbalzo o la palla è vagante.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 9 – Numero tiri I ruoli 5 possono effettuare al massimo 3 tiri a canestro ogni tempo, i canestri valgono 3 punti se effettuati dietro la linea dei tre punti, mentre i ruoli 1, 2, 3 e 4 possono effettuare massimo 3 canestri per tempo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Qualora un giocatore di ruolo 3 o ruolo 4 subisca un fallo in azione di tiro che dà diritto all’effettuazione dei tiri liberi questo tiro e i successivi tiri liberi non riducono il bonus dei tre canestri.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I tiri liberi realizzati danno comunque punteggio.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Eventuali tiri liberi effettuati per sanzionare la difesa illegale non vanno a intaccare il bonus a disposizione come anche l’autocanestro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Sul referto di gara (analogo a quello del basket tradizionale leggermente modificato e qui in Allegato C) andrà indicato nella colonna tiri l’effettuazione di ogni tiro da parte di un ruolo 5 o del canestro realizzato per i ruoli 1, 2, 3, 4.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "In caso venga effettuato il quarto canestro nello stesso tempo di gioco questo deve essere annullato e il gioco riprendere con una rimessa dal lato (come per il canestro laterale subito).",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 10 – Altre differenze col Basket Non esiste l’infrazione di campo né un numero massimo di secondi per superare la metà campo, non esiste l’infrazione di 3 secondi, non esiste il bonus falli, esiste la contesa da effettuarsi sempre al centro campo.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Ogni squadra ha a disposizione n. 1 time out per quarto di gioco ed uno per ogni tempo supplementare.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "I time out non chiamati possono essere utilizzati nei quarti successivi nel seguente modo: se non viene chiamato il time out nel primo quarto questo potrà essere chiamato nel secondo, se invece non viene chiamato il time out nel terzo quarto, questo potrà essere chiamato nel quarto quarto.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non sono possibili altri tipi di accumulo se non quelli indicati.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Non esiste la rimessa in fase di attacco in uscita da un time out.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Deroghe al Regolamento e situazioni particolari I ruoli Pivot (1S, 1, 2T, 2, 2R, 2P) possono avvalersi della facoltà di utilizzare deroghe al regolamento nel caso in cui, nonostante le regole previste per il ruolo ricoperto, essi non riescano a eseguire l’azione di tiro.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Le deroghe eventualmente concesse, anche una sola, escludono per l'atleta richiedente la possibilità del tiro da tre punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Essi potranno comunque eseguire un tiro da tre punti ma se effettuano il canestro esso avrà sempre un valore di due punti.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Le deroghe vanno indicate sulla lista R e sul referto di gioco nell'apposita zona dedicata.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Le deroghe che possono essere richieste sono di tre tipologie sommabili tra loro:",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Deroga di Tempo: I giocatori classificati come ruoli 1S, 1, 2, 2T, 2R, 2P che non riescono a concludere l’azione di tiro nel tempo previsto dal regolamento possono richiedere un aumento del tempo di tiro di massimo 5 secondi.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Deroga di Spazio: I giocatori classificati come ruoli 2T, 2, 2R, 2P che non riescono ad effettuare il tiro dalla distanza prevista dal loro ruolo possono chiedere un avanzamento della linea di tiro. la distanza dovrà essere congrua con la forza posseduta dal giocatore.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Deroga di Canestro: I giocatori classificati come ruoli 2, 2T, 2R, 2P che a causa di impedimenti anatomici e/o funzionali non possono indirizzare la palla al canestro posto a 2,20m neppure con l'utilizzo delle deroghe di “spazio e/o tempo”, possono richiedere la deroga di “Canestro” per utilizzare il canestro posto a 1,10 m.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Questa deroga può essere concessa solo dopo che la Commissione Tecnica locale, previa analisi della situazione, ne consenta l’applicazione.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Il cambio di palla non è considerato deroga ed è concesso solo ai ruoli 1S, 1 e 2P esclusivamente nei casi in cui essi non riescano a tirare utilizzando la palla di gioco.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La scelta della palla da utilizzare deve essere proporzionata alla funzionalità del giocatore che la richiede.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per tutte le situazioni ed esigenze particolari non previste dal regolamento esiste la possibilità di elaborare deroghe in via sperimentale con lo scopo di includere i giocatori che non riescono ad eseguire l’azione di tiro neppure usufruendo delle deroghe precedentemente descritte.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Per queste situazioni ed esigenze particolari è obbligatorio rivolgersi alla propria Commissione Tecnica Locale che, dopo essersi consultata con la Commissione Tecnica Nazionale e averne avuto l'approvazione, ha la possibilità, se necessario, di definire e applicare deroghe in via sperimentale.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "La Commissione Tecnica Nazionale si riserva un tempo massimo di 15 giorni dalla consultazione per esprimersi sulla vicenda.",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Indice generale ......................................................................................... 1 Caratteristiche del Gioco ..........................................................................................................................1 Campo di Gioco (adattato) ............................................................................................................ 1 Tempo di Gioco .............................................................................................................................. 2 Palla da Gioco ............................................................................................................................... 3 Arbitro ............................................................................................................................................ 3 Numero di Giocatori....................................................................................................................... 3 I ruoli .............................................................................................................................................. 3 Riassunto ruoli ............................................................................................................................... 5 Compiti dei giocatori .................................................................................................................................6",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 1 – Giocatori in campo .............................................................................................................. 15",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 2 – Cambi .................................................................................................................................. 16",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 3 – Inizio del gioco .................................................................................................................... 16",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 4 – Rimesse .............................................................................................................................. 16",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 5 – Aree piccole laterali ............................................................................................................. 16",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 6 – Durata delle azioni di gioco ................................................................................................. 17",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 7 – Falli ...................................................................................................................................... 17",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 8 – Aiuti difensivi e “Aiuti offensivi” ............................................................................................ 18",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 9 – Numero tiri ........................................................................................................................... 19",
+        "categoria": "Baskin"
+    },
+    {
+        "sentence": "Regola 10 – Altre differenze col Basket ................................................................................................ 19 Deroghe al Regolamento e situazioni particolari ................................................................................... 19 Indice generale ...................................................................................................................................... 21 Associazione Baskin odv Via Altobello Melone, 18/20 – 26100 Cremona CR associazionebaskin@gmail.com www.baskin.it Ente Italiano Sport Inclusivi Via Altobello Melone, 18/20 – 26100 Cremona CR eisi.presidenzanazionale@gmail.com www.eisi.it",
+        "categoria": "Baskin"
+    }
+]
