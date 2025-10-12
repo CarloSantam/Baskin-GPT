@@ -27,7 +27,7 @@ def search(query_emb, embeddings,frasi,top_k=3):
     
     # Rank sentences by similarity
     similarities_results = sorted(
-    [(f, s) for f, s in zip(frasi, similarities) if s > 0.4],
+    [(f, s) for f, s in zip(frasi, similarities) if s > 0.2],
     key=lambda x: x[1],
     reverse=True)[:top_k]
     
@@ -190,4 +190,5 @@ Risposta:"""
     # 7. Return both the generated response and the context used
     return response.content
     
+
 
